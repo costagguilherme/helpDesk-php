@@ -1,0 +1,33 @@
+body {
+    height: 100%;
+    background-color: #f5f5f5;
+}
+
+#login {
+    border: 2px solid #181818;
+    border-radius: 10px;
+    margin-top: 100px;
+    width: 320px;
+    padding: 0px 20px;
+  }
+
+
+.card-home {
+    padding: 30px 0 0 0;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .card-abrir-chamado {
+    padding: 30px 0 0 0;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .card-consultar-chamado {
+    padding: 30px 0 0 0;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  

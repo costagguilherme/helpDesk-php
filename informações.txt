@@ -1,0 +1,14 @@
+#Perfis
+adm@teste.com.br ADM
+user@teste.com.br ADM
+jose@teste.com.br USER
+maria@teste.com.br USER
+
+senha: 1234
+
+#private_help_desk
+C:/xampp/private_help_desk
+
+#help_desk
+C:/xampp/htdocs/help_desk
+
